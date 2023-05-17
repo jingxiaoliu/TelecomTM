@@ -1,6 +1,6 @@
 # TelecomTM: A Fine-Grained and Ubiquitous Traffic Monitoring System Using Pre-Existing Telecommunication Fiber-Optic Cables as Sensors
 
-(presentation/telecomTM_demo.gif)
+![](presentation/telecomTM_demo.gif)
 
 This is the repository for the paper:
 
