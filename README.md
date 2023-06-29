@@ -4,9 +4,9 @@
 
 This is the repository for the following paper. If you use this implementation, please cite our paper:
 
->* Liu, J., Yuan, S., Dong, Y., Biondi, B., & Noh, H. Y. (2023). TelecomTM: A Fine-Grained and Ubiquitous Traffic Monitoring System Using Pre-Existing Telecommunication Fiber-Optic Cables as Sensors. arXiv preprint arXiv:2305.03172.
+>* Jingxiao Liu, Siyuan Yuan, Yiwen Dong, Biondo Biondi, and Hae Young Noh. 2023. TelecomTM: A Fine-Grained and Ubiquitous Traffic Monitoring System Using Pre-Existing Telecommunication Fiber-Optic Cables as Sensors. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 7, 2, Article 64 (June 2023), 24 pages. https://doi.org/10.1145/3596262
 
-[[paper]](https://arxiv.org/abs/2305.03172)
+[[paper]](https://dl.acm.org/doi/10.1145/3596262)
 
 ### Description
 
